@@ -9,3 +9,6 @@
 # Executables
 *.exe
 *.out
+
+# JSON Configuration files
+.vscode/*.json
